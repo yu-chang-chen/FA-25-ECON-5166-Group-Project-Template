@@ -1,21 +1,20 @@
 # research-repo-template
-This is a template repository for c2l2 team (YC version).
+This is the template repository for the ECON 5516 final project.
 
 ## How to use this template
 1. Click on the "Use this template" button at the top right of the page.
 2. Fill in the repository name and description.
-3. Click "Create repository from template".
-4. Clone the repository to your local machine.
-5. Start adding your research files and documentation.
+3. Click "Create repository from template". 
+4. Name the repo in the format 'fa-25-econ-5166-group-x'.
+5. Clone the repository to your local machine.
+6. Start adding your research files and documentation.
 
 ## Repository Structure
-See [專案資料夾規範](https://docs.google.com/document/d/1sl6gEFMdmiGsiNjLe17UmZ30xKxq15U0Mb2B-Jvusxg/edit?usp=sharing).
+See [ECON5166-期末專案的管理與交付規範](https://docs.google.com/document/d/17YY_T9vu77ssXM6swrmNqx23nYT6hnxEF7jRUkGqqV4/edit?usp=sharing).
 
 ## Link to Meeting Note 
-Link:
-Please create a Google Doc for meeting notes for each project. Please create a tab (named by date YYYYMMDD) for each meeting. [Meeting note template](https://docs.google.com/document/d/1vp1DItfbCN4shOsO1ZbVJf6z8bKySTxFDYsEbWRH10E/). We will create tickets based on the note after the meeting.
+[Link](url)
+Please create a Google Doc for meeting notes for your project. Please create a tab (named by date YYYYMMDD) for each meeting. [Meeting note template](https://docs.google.com/document/d/1vp1DItfbCN4shOsO1ZbVJf6z8bKySTxFDYsEbWRH10E/).
 
 ## Notebook Templates
-`notebook-templates` contains the jupyter notebooks and R markdown examples for what you need to do in your research project folder.
-
-Please create a copy of the corresponding template for your `data`, `finding`, etc.
+the folder `notebook-templates` contains the jupyter notebooks and R markdown examples for what you need to do in your research project folder.
